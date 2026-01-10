@@ -1,13 +1,14 @@
 # mapleir
 
 ## Description
-Project mapleir
+"MapleIR" - A Java/Kotlin project for intermediate representation, obfuscation, or analysis.
 
 ## Goals
-- [ ] Add project goals
+- [ ] Provide IR analysis tools (`ir`, `flowgraph`)
+- [ ] Support obfuscation/deobfuscation (`modasm`)
 
 ## Progress
-- [ ] Initial setup
+- [ ] Gradle workspace initialized with many modules
 
 ---
 *AI assisted*
